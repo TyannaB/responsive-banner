@@ -1,0 +1,28 @@
+html {
+  background-color: #495562;
+  font-family: Georgia,serif;
+}
+
+h1 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  background-color: rgba(73, 85, 98, .9);
+  border-style: solid;
+  border-color: #97a49b;
+  border-radius: 4px;
+}
+
+a:hover {
+  background-color: #efefef;
+  color: #495562;
+  border-style: solid;
+  border-color: #efefef;
+  border-radius: 4px;
+}
