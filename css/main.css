@@ -1,9 +1,13 @@
 html {
   background-color: #495562;
-  font-family: Georgia,serif;
-  background-image: url("../images/earth-horizon.jpg");
-  background-size: cover;
+  font-family: Georgia, serif;
+
+}
+
+img {
+  background-image: linear-gradient(rgba(73, 85, 98, .9), rgba(73, 85, 98, 0));
   background-repeat: no-repeat;
+  max-height: 500px;
 }
 
 h1 {
