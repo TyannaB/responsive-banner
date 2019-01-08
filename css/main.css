@@ -1,12 +1,10 @@
 html {
   background-color: #495562;
   font-family: Georgia, serif;
-
 }
 
 img {
-  background-image: linear-gradient(rgba(73, 85, 98, .9), rgba(73, 85, 98, 0));
-  background-repeat: no-repeat;
+
   max-height: 500px;
 }
 
@@ -32,4 +30,14 @@ p {
   border-style: solid;
   border-color: #efefef;
   border-radius: 4px;
+}
+
+@media only screen and (min-width: 60em) {
+
+  html{
+    background-image: linear-gradient(rgba(73, 85, 98, .9), rgba(73, 85, 98, 0));
+    background-repeat: no-repeat;
+  }
+
+
 }
